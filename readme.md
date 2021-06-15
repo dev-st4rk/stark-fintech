@@ -9,7 +9,9 @@ You can access the complete website at:
 
 ![Image 3](https://github.com/dev-st4rk/stark-fintech/blob/main/assets/images/3.png)
 
-![Image 3](https://github.com/dev-st4rk/stark-fintech/blob/main/assets/images/4.png)
+![Image 4](https://github.com/dev-st4rk/stark-fintech/blob/main/assets/images/4.png)
+
+![Image 5](https://github.com/dev-st4rk/stark-fintech/blob/main/assets/images/5.png)
 
 ## License
 
